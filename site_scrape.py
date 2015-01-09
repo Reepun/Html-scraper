@@ -28,5 +28,5 @@ for item in days:
     #Some keys screw up due to some unicode characters being left in. Need to clean that. 
     farozon[day] = dishes
     
-
+#bajs
 print farozon
